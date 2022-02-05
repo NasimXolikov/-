@@ -912,12 +912,16 @@ footer {
     padding: 10px;
   }
   .our-masters {
+    font-size: 40px;
+    text-align: center;
     margin-top: 150px;
   }
   .gallery-work {
     margin-top: 700px;
   }
   .gallery-work .gallery-work-h5 {
+    font-size: 40px;
+    text-align: center;
     margin-top: 150px;
     margin-top: 200px;
   }
@@ -1054,14 +1058,14 @@ footer {
   .call-first-input-relative .call-first-input-label {
     position: absolute;
     left: 9.5%;
-    top: 28%;
+    top: -10%;
     background-color: white;
     font-size: 14px;
   }
   .call-second-input-relative {
     position: relative;
     display: block;
-    margin-top: 75px;
+    margin-top: 15px;
   }
   .call-second-input-relative .call-second-input {
     border-width: 2px;
@@ -1078,7 +1082,7 @@ footer {
   .call-second-input-relative .call-second-input-label {
     position: absolute;
     left: 9.5%;
-    top: 28%;
+    top: -10%;
     background-color: white;
     font-size: 14px;
   }
@@ -1102,12 +1106,12 @@ footer {
   .call-third-input-relative .call-third-input-label {
     position: absolute;
     left: 9.5%;
-    top: 28%;
+    top: -10%;
     background-color: white;
     font-size: 14px;
   }
   .call-form-btn {
-    margin-top: -100px;
+    margin-top: 50px;
     width: 300px;
   }
   .btn-2-orange {
@@ -1115,10 +1119,24 @@ footer {
     font-size: 21px;
   }
   .footer-logo {
-    margin-bottom: 10px ;
+    margin-bottom: 10px;
   }
   .footer-number {
     text-align: center;
+  }
+  .first-gal {
+    text-align: center;
+  }
+  .second-gal {
+    text-align: center;
+  }
+  .work-part-h5 {
+    text-align: center;
+    font-size: 40px !important;
+  }
+  .call-h5 {
+    text-align: center;
+    font-size: 40px;
   }
 }
 .bar {
