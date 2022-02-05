@@ -823,7 +823,7 @@ footer {
   margin-top: -10px;
   background-image: url(../img/blue-bg.png);
 }
-@media (max-width: 460px) {
+@media (max-width: 576px) {
   .background-blue {
     width: 100%;
     height: 100%;
